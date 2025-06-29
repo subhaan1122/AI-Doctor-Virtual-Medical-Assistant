@@ -14,7 +14,7 @@ from detect_fracture import predict_fracture
 import whisper
 from multiprocessing import Process
 
-API_KEY = "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"
+API_KEY = "Upload your key here"
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
